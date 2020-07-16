@@ -1,0 +1,13 @@
+{
+  "name": "HaxeMachine",
+  "url" : "https://github.com/DQvsRA/HaxeMachine",
+  "license": "MIT",
+  "tags": ["state machine", "finite state machine", "state"],
+  "description": "State Machine for Haxe.",
+  "version": "0.1.0",
+  "classPath": "lib/src",
+  "releasenote": "Initial release, everything is working correctly.",
+  "contributors": ["Vladimir"],
+  "dependencies": {
+  }
+}
